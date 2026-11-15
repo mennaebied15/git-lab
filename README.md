@@ -1,4 +1,4 @@
-# Git Lab: Version A
+# Git Lab: Version B
 This repo is my Git practice lab.
 
 ## About
